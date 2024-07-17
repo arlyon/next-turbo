@@ -1,0 +1,6 @@
+[submodule "turbo"]
+	path = turbo
+	url = git@github.com:vercel/turbo.git
+[submodule "next.js"]
+	path = next.js
+	url = git@github.com:vercel/next.js.git
